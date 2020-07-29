@@ -1,3 +1,3 @@
-# jsr
+# JavaScript Standards Recommendations
 
-JavaScript Standards Recommendations for my personal projects and my work at Mind The Graph.
+A guide for my personal projects and my work at Mind The Graph. The primarily objetive is keep consistency between code bases and construct a base standard similar to (PHP PSRS)[https://www.php-fig.org/psr/psr-1/].
