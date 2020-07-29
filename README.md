@@ -1,0 +1,2 @@
+# jsr
+JavaScript Standards Recommendations
