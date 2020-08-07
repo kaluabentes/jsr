@@ -40,7 +40,7 @@ Always use PascalCase to name an enum and its keys options, use uppercase for ch
 
 Interfaces are used to define the api contract of a entity.
 
-```jsx
+```javascript
 const Props = {
   avatar: PropTypes.string,
   name: PropTypes.string,
