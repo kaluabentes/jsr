@@ -7,7 +7,7 @@ Constants are commonly used to define the default configuration of a program, mo
 ```javascript
 const DEFAULT_PROPS = {
   name: 'Kaluã Bentes',
-  borndate: '1992-12-29'
+  birthday: '1992-12-29'
 }
 
 const INITIAL_STATE = {
